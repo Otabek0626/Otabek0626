@@ -65,7 +65,7 @@
 <h3 align="left">Deep Learning Ecosystems:</h3>
 <p align="left"> 
 <a href="https://github.com/Tianxiaomo/pytorch-YOLOv4" target="_blank"> <img src="https://pjreddie.com/media/image/yologo_2.png" alt="raspberrypi" width="74" height="40"/> </a>
-<a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/master/.github/Detectron2-Logo-Horz.svg" alt="detectron2" width="150" height="60"/> </a>
+<a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/master/.github/Detectron2-Logo-Horz.svg" alt="detectron2" width="200" height="80"/> </a>
 </p>
 
 
