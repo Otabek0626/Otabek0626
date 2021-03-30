@@ -66,7 +66,7 @@
 <p align="left"> 
 <a href="https://github.com/Tianxiaomo/pytorch-YOLOv4" target="_blank"> <img src="https://pjreddie.com/media/image/yologo_2.png" alt="raspberrypi" width="74" height="40"/> </a>
 
- <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/master/.github/Detectron2-Logo-Horz.svg" alt="detectron2"/> </a>
+ <a href="https://github.com/facebookresearch/detectron2" target="_blank"> <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/master/.github/Detectron2-Logo-Horz.svg" alt="detectron2"/> width="100" height="40"/> </a>
 </p>
 
 
