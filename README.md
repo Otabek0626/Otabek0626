@@ -64,6 +64,7 @@
 
 <h3 align="left">Deep Learning Ecosystems:</h3>
 <p align="left"> 
+<a href="https://github.com/Tianxiaomo/pytorch-YOLOv4" target="_blank"> <img src="https://pjreddie.com/media/image/yologo_2.png" alt="raspberrypi" width="74" height="40"/> </a>
 
 </p>
 
