@@ -1,4 +1,4 @@
-<h5 align="center"><b>Full Stack Developer<b></h5>
+<h6 align="center"><b>Full Stack Developer<b></h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otabek0626&label=Profile%20views&color=0e75b6&style=flat" alt="otabek0626" /> </p>
 
