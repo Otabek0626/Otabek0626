@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otabek0626" alt="otabek0626" /></a> </p>
 
 - 🔭 I’m currently working on [Computer Vision and Deep Learning](https://github.com/Otabek0626/Deep_Learning)
+ -[Exam questions](https://github.com/Otabek0626/Otabek0626/blob/main/Programmin%20Note.pdf)
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow, Django and so on**
 
