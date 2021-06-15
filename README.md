@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [Computer Vision and Deep Learning](https://github.com/Otabek0626/Deep_Learning)
 
--[Exam questions](https://github.com/Otabek0626/Otabek0626/blob/main/Programmin%20Note.pdf)
-
 - 🌱 I’m currently learning **Pytorch, Tensorflow, Django and so on**
 
 - 👯 I’m looking to collaborate on **Deep Learning**
