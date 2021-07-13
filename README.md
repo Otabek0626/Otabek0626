@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Otabek0626?tab=repositories](https://github.com/Otabek0626?tab=repositories)
+- 👨‍💻 All of my projects are available in [Here](https://github.com/Otabek0626?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.facebook.com/groups/454432925419104/](https://www.facebook.com/groups/454432925419104/)
+- 📝 I regularly write articles on [Facebook Group](https://www.facebook.com/groups/454432925419104/)
 
 - 📫 How to reach me **bekdevs01@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Otabek0626/Otabek0626/blob/main/Resume%20Otabek%20Olimjonov.pdf](https://github.com/Otabek0626/Otabek0626/blob/main/Resume%20Otabek%2)
+- 📄 Know about my experiences in my [RESUME](https://github.com/Otabek0626/Otabek0626/blob/main/Resume%20Otabek%20Olimjonov.pdf)
 
 - ⚡ Fun fact **I love fun**
 
