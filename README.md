@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bekdevs01@gmail.com**
 
-- 📄 Know about my experiences in my [RESUME](https://github.com/Otabek0626/Otabek0626/blob/main/Resume%20Otabek%20Olimjonov.pdf)
+- 📄 Know about my experiences in my [RESUME](https://drive.google.com/file/d/1aV266CA0VaDvGU8s01dp2oJiPk1TS7gl/view?usp=sharing)
 
 - ⚡ Fun fact **I love fun**
 
