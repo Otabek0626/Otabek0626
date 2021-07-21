@@ -58,7 +58,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-
+<a href="https://reactjs.org" target="_blank"> <img src="https://w7.pngwing.com/pngs/661/898/png-transparent-react-javascript-library-web-development-vue-js-funding-icon-logo-symmetry-web-development.png" alt="React" width="40" height="40"/> </a>
 </p>
 
 
