@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bekdevs01@gmail.com**
 
-- 📄 Know about my experiences in my [RESUME](https://drive.google.com/file/d/1aV266CA0VaDvGU8s01dp2oJiPk1TS7gl/view?usp=sharing)
+- 📄 Know about my experiences in my [RESUME](https://drive.google.com/file/d/18etr9FG8j-dhCTWu8Es_cwXGJs-kyRSm/view?usp=sharing)
 
 - ⚡ Fun fact **I love fun**
 
