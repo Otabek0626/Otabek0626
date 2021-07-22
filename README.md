@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available in [Here](https://github.com/Otabek0626?tab=repositories)
 
-- 📝 I regularly write articles on [Facebook Group](https://www.facebook.com/groups/454432925419104/)
+- 📝 I am the admin of this [Facebook Software Engineers Group](https://www.facebook.com/groups/454432925419104/)
 
 - 📫 How to reach me **bekdevs01@gmail.com**
 
