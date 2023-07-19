@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bekdevs01@gmail.com**
 
-- 📄 Know about my experiences in my [RESUME](https://drive.google.com/file/d/18etr9FG8j-dhCTWu8Es_cwXGJs-kyRSm/view?usp=sharing)
+- 📄 Know about my experiences in my [RESUME]([https://drive.google.com/file/d/18etr9FG8j-dhCTWu8Es_cwXGJs-kyRSm/view?usp=sharing](https://github.com/Otabek0626/Otabek0626/raw/main/Otabek%20Software%20Engineer%20Resume-1.pdf))
 
 - ⚡ Fun fact **I love fun**
 
